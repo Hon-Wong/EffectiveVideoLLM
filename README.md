@@ -1,9 +1,9 @@
-# EffectiveVideoLLM
+# ByteVideoLLM
 
-Welcome to the official repository for the upcoming work: EffectiveVideoLLM.
+Welcome to the official repository for the upcoming work: ByteVideoLLM.
 
 ## Overview
-EffectiveVideoLLM focuses on achieving a delicate balance between performance and token consumption in video llm. 
+ByteVideoLLM focuses on achieving a delicate balance between performance and token consumption in video llm. 
 
 ## What to Expect
 In the following weeks, we will be releasing the following components:
