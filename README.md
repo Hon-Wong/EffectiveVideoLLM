@@ -16,3 +16,4 @@ We are continuously improving the model's performance.
 Stay tuned for updates!
 
 Authors: Han Wang, Yongjie Ye, Yanjie Wang, Jinghui Lu, Can Huang
+Bytedance Inc.
