@@ -1,6 +1,6 @@
 # ByteVideoLLM
 
-Welcome to the official repository for the upcoming work: ByteVideoLLM.
+🚀🚀🚀 Welcome to the official repository for the upcoming work: ByteVideoLLM.
 
 ## Overview
 ByteVideoLLM focuses on achieving a delicate balance between performance and token consumption in video llm. 
@@ -15,5 +15,16 @@ We are continuously improving the model's performance.
 
 Stay tuned for updates!
 
-Authors: Han Wang, Yongjie Ye, Yanjie Wang, Jinghui Lu, Can Huang
-Bytedance Inc.
+## Citation
+
+If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝.
+
+```
+@misc{wang2024,
+      title={ByteVideoLLM}, 
+      author={Han Wang and Yongjie Ye and Yanjie Wang and Jinghui Lu and Can Huang},
+      year={2024},
+      url={https://github.com/Hon-Wong/ByteVideoLLM}, 
+}
+```
+
